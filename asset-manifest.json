@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SocialMedia-Frontend-master/static/css/main.f4e78cd8.css",
+    "main.js": "/SocialMedia-Frontend-master/static/js/main.9064d823.js",
+    "static/media/img22.jpg": "/SocialMedia-Frontend-master/static/media/img22.eb839387c8b0c4d93228.jpg",
+    "static/media/img.jpg": "/SocialMedia-Frontend-master/static/media/img.00a7bc43c07d0464d459.jpg",
+    "static/media/Zainab.jpg": "/SocialMedia-Frontend-master/static/media/Zainab.a4add9ba1cd2a7d3bdb9.jpg",
+    "static/media/profileImg.jpg": "/SocialMedia-Frontend-master/static/media/profileImg.e857f45860a47d11abdd.jpg",
+    "static/media/postpic3.JPG": "/SocialMedia-Frontend-master/static/media/postpic3.beac725ca6324496b64a.JPG",
+    "static/media/img1.png": "/SocialMedia-Frontend-master/static/media/img1.a0fca9c51749c1ee3db5.png",
+    "static/media/img2.png": "/SocialMedia-Frontend-master/static/media/img2.f5f922c9b93eaf2c4065.png",
+    "static/media/sign.jpeg": "/SocialMedia-Frontend-master/static/media/sign.2d739ddd23adbd504e1d.jpeg",
+    "static/media/img3.png": "/SocialMedia-Frontend-master/static/media/img3.6b1484548ee065fd59b5.png",
+    "index.html": "/SocialMedia-Frontend-master/index.html",
+    "main.f4e78cd8.css.map": "/SocialMedia-Frontend-master/static/css/main.f4e78cd8.css.map",
+    "main.9064d823.js.map": "/SocialMedia-Frontend-master/static/js/main.9064d823.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4e78cd8.css",
+    "static/js/main.9064d823.js"
+  ]
+}
